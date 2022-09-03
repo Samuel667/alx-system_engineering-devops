@@ -1,1 +1,1 @@
-Display the contents directory in a long format
+tmp/my_first_directory
